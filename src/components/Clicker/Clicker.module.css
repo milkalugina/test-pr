@@ -16,9 +16,9 @@
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  border: 1px solid #e0e0e0;
-  background-color: #ffffff;
-  color: #000000;
+  border: 1px solid #cc0000;
+  background-color: #ff0000;
+  color: #ffffff;
   font-family: inherit;
   font-size: 1rem;
   font-weight: 500;
@@ -30,5 +30,5 @@
 }
 
 .button:active {
-  background-color: #f5f5f5;
+  background-color: #cc0000;
 }
